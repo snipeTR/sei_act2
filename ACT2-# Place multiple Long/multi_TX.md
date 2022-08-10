@@ -112,7 +112,7 @@ echo '{
 ```
 ## KONTROL
 yukarıdaki komut ile sunucunuzda gen_tx.json isimli bir dosya oluşturmuş olmalısınız.
-aşağıdaki komutların herhangi birisi ile dosyanın doğru oluşup oluşmadığını kontrol edin. [örnek dosya](https://github.com/snipeTR/sei_act2/blob/main/ornek_gen_tx.json "örnek dosya")
+aşağıdaki komutların herhangi birisi ile dosyanın doğru oluşup oluşmadığını kontrol edin. [örnek dosya](https://github.com/snipeTR/sei_act2/blob/main/ACT2-%23%20Place%20multiple%20Long/gen_tx.json.ornek.md) "örnek dosya")
 creator ve account kısmında kendi sei adresiniz yazmalı. memo kısmında ise kendi yazdığınız memo verisinin yazıyor olması lazım. kontrollerinizi dikkatlice yapın. gerekliyse düzeltmeleri nano aracılığı ile yapın ve dosyayı kaydedin. herşey doğru gözüküyorsa bir değişiklik yapmanıza gerek yok.
 
 ```bash
@@ -196,4 +196,4 @@ hesabınızda yeterli fee ödemek için bakiye yetersiz. lütfen bir miktar fee 
 
 
 
-Thanks to [craving-for-knowledge](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/proekty/sei/act-2-missions/place-multiple-orders-in-one-transaction) "craving-for-knowledge") for supporting the creation of this article.
+Thanks to [craving-for-knowledge](https://pandao.github.io/editor.md/en.html](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/proekty/sei/act-2-missions/place-multiple-orders-in-one-transaction) "craving-for-knowledge") for supporting the creation of this article.
