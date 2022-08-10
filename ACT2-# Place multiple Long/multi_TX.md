@@ -196,4 +196,4 @@ hesabınızda yeterli fee ödemek için bakiye yetersiz. lütfen bir miktar fee 
 
 
 
-Thanks to [craving-for-knowledge](https://pandao.github.io/editor.md/en.html](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/proekty/sei/act-2-missions/place-multiple-orders-in-one-transaction) "craving-for-knowledge") for supporting the creation of this article.
+Thanks to [craving-for-knowledge](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/proekty/sei/act-2-missions/place-multiple-orders-in-one-transaction) "craving-for-knowledge") for supporting the creation of this article.
